@@ -1,6 +1,6 @@
 # ROSA: An Optimization Algorithm for Multi-Modal Derivative-Free Functions in High Dimensions
 
-The code will be released after publication. For now, a printed Jupyter notebook is available [here](ROSA_code.pdf).
+A well-documented PyTorch implementation, with tutorial notebooks, will be released after journal publication.   For now, a printed Jupyter notebook is available [here](ROSA_code.pdf).
 
 # Citing us
 If you use this code please respect the license and cite the paper as:
